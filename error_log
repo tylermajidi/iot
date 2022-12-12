@@ -1,0 +1,2 @@
+[03-Jul-2022 08:50:22 Asia/Tehran] PHP Fatal error:  Call to a member function prepare() on null in /home3/gsmdatai/public_html/prj/delete.php on line 7
+[03-Jul-2022 08:50:56 Asia/Tehran] PHP Fatal error:  Call to a member function prepare() on null in /home3/gsmdatai/public_html/prj/delete.php on line 7

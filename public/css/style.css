@@ -1,0 +1,15 @@
+.led_on {
+    background-image: url("../images/led_on.png");
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size: contain;
+}
+
+.led_off {
+    background-image: url("../images/led_off.png");
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size: contain;
+}
